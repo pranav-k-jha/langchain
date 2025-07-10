@@ -1,0 +1,70 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.pdf
+*.dvi
+*.ps
+*.ilg
+*.ind
+*.idx
+*.glo
+*.gls
+*.ist
+*.acn
+*.acr
+*.alg
+*.glg
+*.glsdefs
+*.run.xml
+*.bcf
+*.blx.bib
+
+# LaTeX editor/IDE files
+*.bak
+*.backup
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+
+# Python virtual environments
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Output folders
+build/
+output/
+
+# Project-specific
+ppt/langchain_intro.png
+ppt/rag_diagram.jpg
+ppt/logo.pdf
